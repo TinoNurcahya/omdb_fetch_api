@@ -35,4 +35,3 @@ Project ini merupakan latihan materi fetch JavaScript dari channel [Web Programm
 
 ## 🔗 Link Website (tanpa API)
 [https://tinonurcahya.github.io/omdb_fetch_api/]
-> ⚠️ Pencarian tidak berfungsi di sini karena OMDB API membutuhkan server. Jalankan secara lokal untuk hasil maksimal.
