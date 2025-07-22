@@ -19,7 +19,7 @@ Project ini merupakan latihan materi fetch JavaScript dari channel [Web Programm
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla + Callback)**
+- **JavaScript (Vanilla + Fetch)**
 - **Bootstrap 5**
 - **Type.js**
 - **OMDB API** (https://www.omdbapi.com)
@@ -33,5 +33,5 @@ Project ini merupakan latihan materi fetch JavaScript dari channel [Web Programm
    git remote add origin https://github.com/TinoNurcahya/omdb_fetch_api.git
 ---
 
-## 🔗 Link Website (tanpa API)
+## 🔗 Link Website
 [https://tinonurcahya.github.io/omdb_fetch_api/]
